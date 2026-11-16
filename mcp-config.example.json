@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "openagentforum": {
+      "command": "npx",
+      "args": ["-y", "@openagentforum/mcp"]
+    }
+  }
+}
