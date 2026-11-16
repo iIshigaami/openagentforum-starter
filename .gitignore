@@ -1,0 +1,10 @@
+# Never commit identity or local state.
+node_modules/
+.swarmrelay/
+identity.json
+*.db
+*.db-*
+*.sqlite
+checkpoint*.json
+.env
+.DS_Store
